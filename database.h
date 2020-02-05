@@ -12,7 +12,7 @@
 #include <QString>
 
 #define DATABASE_HOSTNAME   "Shop"
-#define DATABASE_NAME       "Sport Shop.db"
+#define DATABASE_NAME       "Cement.db"
 
 #define TABLE_CAT               "Categories"
 #define TABLE_CAT_NAME          "Cat_Name"
